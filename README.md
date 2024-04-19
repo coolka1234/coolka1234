@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
 <h3 align="center">An ambitious CS student from Wrocław : )</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coolka1234" alt="coolka1234" /></a> </p>
 
 - 🤝 I’m looking for help with **developing and kickstarting my future career**
 
