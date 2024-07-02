@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
-<h3 align="center">An ambitious CS student from Wrocław : )</h3>
-
-
-- 🤝 I’m looking for help with **developing and kickstarting my future career**
-
 - 📫 How to reach me: **krzysztof.kulka1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
