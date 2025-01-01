@@ -11,6 +11,13 @@
 - SQL Database - PostgresSQL
   - [Queries for MPK project](https://github.com/coolka1234/PostgresSQL-Queries-MPK) - Set of queries for Postgres database for pubic communication in Wrocław
   - [Data filler for Postgres](https://github.com/coolka1234/Data-Generator) - Data generator to fill postgres database using psycopg2
+- Algorithmics
+  - [Tech Interview Practice](https://github.com/coolka1234/Tech-Interview-Pratice) - A set of diffrent exercises in Algorithms and Data Sctructures using Java, C#, C++ and Python
+- .NET - MVC web based applications
+  - [Grocery Shop](https://github.com/coolka1234/GroceryShopMVC.NET) - Web based shop created using Entity Framework and MSSQL
+- Mobile Apps- Swift and Kotlin
+  - [Companion App for League of Legends](https://github.com/coolka1234/LoL-Builder-Swift) - Companion app for LoL, written using SwiftUI includes logging to RiotAccount, game database and pro builds
+  - [SMITE Randomizer](https://github.com/coolka1234/SMITE-Randomizer-App) - Random champion picker for SMITE written using JetPack Compose in Kotlin
 
 
 <h3 align="left">Connect with me:</h3>
