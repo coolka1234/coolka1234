@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
 - 📫 How to reach me: <a href="krzysztof.kulka1234@gmail.com">krzysztof.kulka1234@gmail.com<a>
+# My skills and projects that showcase them
+- Python: Scripting, AI and desktop applications
+  - [Stock Sage](https://github.com/coolka1234/Stock-Sage) - AI predictor for stock prices, along with news viewer and stock prices tracker
+  - [Discord Meme Bot](https://github.com/coolka1234/Discord-Goes-Hard-Bot) - Machine learning classificator model for judging how funny discord messages are, and create a meme with those that are
+  - [GCode-Optimizer](https://github.com/coolka1234/GCodeOptimizer) - My summer 2024 internship project for optimizng CAD program output before being fed into machine
+- Rust - CLI Tools
+  - [comparediff](https://github.com/coolka1234/comparediff) - Rust CLI tool for comparing text files
+  - [Link 2.2](https://example.com) - Description of Link 2.2
+- Item 3
+  - [Link 3.1](https://example.com) - Description of Link 3.1
+  - [Link 3.2](https://example.com) - Description of Link 3.2
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
