@@ -10,7 +10,7 @@
   - [comparediff](https://github.com/coolka1234/comparediff) - Rust CLI tool for comparing text files
   - [i3blocks_wifi](https://github.com/coolka1234/i3blocks_wifi) - i3blocks element for Arch Linux to show the level of WiFi signal
 - SQL Database - PostgreSQL
-  - [Queries for MPK project](https://github.com/coolka1234/PostgresSQL-Queries-MPK) - Set of queries for Postgres database for pubic communication in Wrocław
+  - [Queries for MPK project](https://github.com/coolka1234/PostgresSQL-Queries-MPK) - Set of queries for Postgres database for public communication in Wrocław
   - [Data filler for Postgres](https://github.com/coolka1234/Data-Generator) - Data generator to fill postgres database using psycopg2
 - Algorithmics
   - [Tech Interview Practice](https://github.com/coolka1234/Tech-Interview-Pratice) - A set of diffrent exercises in Algorithms and Data Sctructures using Java, C#, C++ and Python
