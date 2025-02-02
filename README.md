@@ -3,7 +3,7 @@
 # My skills and projects that showcase them
 - Python: Scripting, AI and desktop applications
   - [Stock Sage](https://github.com/coolka1234/Stock-Sage) - AI predictor for stock prices, along with news viewer and stock prices tracker
-  - [Discord Meme Bot](https://github.com/coolka1234/Discord-Goes-Hard-Bot) - Machine learning classificator model for judging how funny discord messages are, and create a meme with those that are
+  - [Discord Meme Bot](https://github.com/coolka1234/Discord-Goes-Hard-Bot) - Machine learning classificator model for judging how funny discord messages are, and creating a meme with those that are
   - [GCode-Optimizer](https://github.com/coolka1234/GCodeOptimizer) - My summer 2024 internship project for optimizng CAD program output before being fed into machine
   - [Polands Demographics Scikit-learn](https://github.com/coolka1234/scikit-learn-poland-demography) - Data Scienece ML Project to predict Poland's population in the future, with raport written in LaTeX.
 - Rust - CLI Tools
