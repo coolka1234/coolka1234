@@ -12,6 +12,9 @@
 - SQL Database - PostgreSQL
   - [Queries for MPK project](https://github.com/coolka1234/PostgresSQL-Queries-MPK) - Set of queries for Postgres database for public communication in Wrocław
   - [Data filler for Postgres](https://github.com/coolka1234/Data-Generator) - Data generator to fill postgres database using psycopg2
+- Big Data, IoT
+  - [Rapsberry Pi Reservation System](https://github.com/coolka1234/RaspberryPi-Reservation-System) - System based on Raspberry Pi and SQLite to allow for independent reservations for conference rooms.
+  - [MongoDB Data Generator](https://github.com/coolka1234/mongodb_datafaker) - Generator for MongoDB system for public communciation in Wrocław
 - Algorithmics
   - [Tech Interview Practice](https://github.com/coolka1234/Tech-Interview-Pratice) - A set of diffrent exercises in Algorithms and Data Sctructures using Java, C#, C++ and Python
 - .NET - MVC web based applications
