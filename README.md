@@ -21,7 +21,7 @@
   - [Grocery Shop](https://github.com/coolka1234/Grocery-Shop-MVC-.NET) - Web based shop created using Entity Framework and MSSQL
 - Mobile Apps- Swift and Kotlin
   - [Companion App for League of Legends](https://github.com/coolka1234/LoL-Builder-Swift) - Companion app for League of Legends, written using SwiftUI includes logging to RiotAccount, game database and pro builds
-  - [SMITE Randomizer](https://github.com/coolka1234/SMITE-Randomizer-App) - Random champion picker for SMITE written using JetPack! Compose in Kotlin
+  - [SMITE Randomizer](https://github.com/coolka1234/SMITE-Randomizer-App) - Random champion picker for SMITE written using JetPack Compose in Kotlin
 
 
 <h3 align="left">Connect with me:</h3>
